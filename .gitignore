@@ -24,3 +24,6 @@ sudoku-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Generated binary
+sudoku
